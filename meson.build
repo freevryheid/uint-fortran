@@ -1,4 +1,4 @@
-project('uint-fortran', 'fortran', default_options: ['default_library=static'])
+project('uint-fortran', 'fortran')
 
 src = files(
   'src/uint-io_m.F90',
