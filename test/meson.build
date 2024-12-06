@@ -1,15 +1,15 @@
 tests = [
   'check-operator-plus_02',
-  'check-operator-plus_11',
-  'check-assign-negative_uint8',
-  'check-operator-plus_04',
   'check-operator-plus_03',
-  'check-operator-plus_09',
+  'check-operator-plus_04',
+  'check-operator-plus_06',
   'check-operator-plus_07',
   'check-operator-plus_08',
-  'check-assign-negative_uint16',
-  'check-operator-plus_06',
+  'check-operator-plus_09',
   'check-operator-plus_10',
+  'check-operator-plus_11',
+  'check-assign-negative_uint8',
+  'check-assign-negative_uint16',
   'check-assign-negative_uint32',
 ]
 
